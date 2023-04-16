@@ -1,0 +1,7 @@
+query1routingkey 2014 Alabama Private 4-year Fees/Tuition topic-exchange
+query2routingkey 2014 Private 4-year topic-exchange
+query3routingkey 2014 Private 4-year topic-exchange
+query4routingkey 2014 2015 Private 4-year topic-exchange
+query5routingkey 2014 Private 4-year topic-exchange
+query1routingkey 2014 Arizona Private 4-year Fees/Tuition topic-exchange
+query4routingkey 2014 2016 Private 4-year topic-exchange
