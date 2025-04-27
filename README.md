@@ -36,6 +36,21 @@ A high-performance messaging system using RabbitMQ topic exchanges with MongoDB 
 
 ![image](https://github.com/user-attachments/assets/262e0cd7-4aff-426b-b536-239673ec0b0b)
 
+##Advanced Features
+
+    gRPC integration for high-performance service communication
+
+    Protocol Buffers for efficient message serialization
+
+
+##Development Notes
+
+    The project uses Maven resource filtering for Config.txt
+
+    All RabbitMQ connection management is handled in ConnectionManager.java
+
+    MongoDB DAOs provide data persistence layer
+
 
 ## Build Project
 mvn clean install
